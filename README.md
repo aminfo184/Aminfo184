@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=900&lines=Hi!+I'm+Mohammad+Amin+Forati;Full+Stack+Developer+%7C+Problem+Solver;Passionate+about+Building+Modern+Digital+Experiences" alt="Typing SVG" />
 
----
+
 
 ### 🚀 About Me
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aminfo184&show_icons=true&theme=gruvbox" width="48%" alt="GitHub Stats" />
