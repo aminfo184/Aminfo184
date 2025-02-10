@@ -9,7 +9,9 @@
 <br/><br/>
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,laravel,alpinejs,js,vue,html,css,tailwind,sass,mysql,postgresql,redis,git,linux,docker" alt="Tech Stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,sass,mysql,git,docker,laravel,livewire,alpinejs,vue,tailwind,postgresql,redis,linux&perline=8" alt="Tech Stack" />
+</p>
 <br/>
 
 ## 📊 GitHub Stats
